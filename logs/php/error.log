@@ -1,0 +1,40 @@
+[17-Mar-2024 15:51:10 UTC] PHP Warning:  Undefined variable $product in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 15:51:10 UTC] PHP Warning:  Attempt to read property "price" on null in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 15:51:10 UTC] PHP Warning:  Undefined variable $product in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 15:51:10 UTC] PHP Warning:  Attempt to read property "price" on null in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 15:52:55 UTC] PHP Warning:  Array to string conversion in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 15:52:55 UTC] PHP Warning:  Array to string conversion in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 26
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:03 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on int in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:24:16 UTC] PHP Warning:  Attempt to read property "name" on string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
+[17-Mar-2024 16:31:18 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Term could not be converted to string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php:29
+Stack trace:
+#0 /home/komor/Local Sites/food-ordering-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/komor/Local Sites/food-ordering-site/app/public/wp-blog-header.php(19): require_once('/home/komor/Loc...')
+#2 /home/komor/Local Sites/food-ordering-site/app/public/index.php(17): require('/home/komor/Loc...')
+#3 {main}
+  thrown in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 29
+[17-Mar-2024 16:31:24 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Term could not be converted to string in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php:27
+Stack trace:
+#0 /home/komor/Local Sites/food-ordering-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/komor/Local Sites/food-ordering-site/app/public/wp-blog-header.php(19): require_once('/home/komor/Loc...')
+#2 /home/komor/Local Sites/food-ordering-site/app/public/index.php(17): require('/home/komor/Loc...')
+#3 {main}
+  thrown in /home/komor/Local Sites/food-ordering-site/app/public/wp-content/themes/tetes/page-products.php on line 27
